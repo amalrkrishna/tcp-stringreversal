@@ -2,6 +2,7 @@
 Server and client code for TCP-based String Reversal Service and to calculate vowel count
 
 Procedure:
+
 1. Run the TCP server code in the host computer.
 
 2. After making sure the TCP server code is running in the host computer get the details of the IP address of the host computer and enter it in the UDP client code.
